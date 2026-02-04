@@ -101,7 +101,7 @@ INNER JOIN skills_dim
 ORDER BY salary_year_avg DESC;
 ```
 ### Top Paying Data Analyst Roles and Associated Skills (Sample)
-![Analysis Output](assests\output.png)
+![Analysis Output](assests/output.png)
 
 
 
